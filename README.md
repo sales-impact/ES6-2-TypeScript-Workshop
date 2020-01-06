@@ -1,17 +1,22 @@
 # From ES6 to TypeScript
 ## Hands on workshop
 
-## Who is this workshop for
+
+### Who is this workshop for
 Developers who want to explore the TypeScript way.
 
-## Prerequisites
+
+### Prerequisites
 You should be familiar with JavaScript and have a basic GIT knowledge.
 
-## What this workshop is not
+
+### What this workshop is not
 It is not a deep dive course. The goal is to demonstrate TypeScript on a real use case.
 
-## What are we going to do
+
+### What are we going to do
 We are going to rush over the theory and focus on a pet project. You will code along and try first hand on all the topics.
+
 
 ## Table of contents
 0. A brief welcome round (<= 15min)
