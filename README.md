@@ -1,6 +1,6 @@
 # From ES6 to TypeScript
 ## Hands on workshop
-
+---
 
 ### Who is this workshop for
 Developers who want to explore the TypeScript way.
