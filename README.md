@@ -17,6 +17,7 @@ It is not a deep dive course. The goal is to demonstrate TypeScript on a real us
 ### What are we going to do
 We are going to rush over the theory and focus on a pet project. You will code along and try first hand on all the topics.
 
+---
 
 ## Table of contents
 0. A brief welcome round (<= 15min)
