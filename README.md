@@ -1,4 +1,4 @@
-# From ES6 to Typescript
+# From ES6 to TypeScript
 ## Hands on workshop
 
 ## Who is this workshop for
