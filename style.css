@@ -1,0 +1,41 @@
+body{
+    display: flex;
+    flex-direction: column;
+    font-family: verdana;
+}
+
+input {
+    margin: 2rem auto;
+    width: 30rem;
+    padding: 1rem;
+    font-size: 1.2rem;
+    border: 0.2rem solid #efefef;
+}
+
+ul {
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 90%;
+    padding: 2rem;
+    margin: 0 auto;
+    background: #efefef;
+    list-style-type: none;
+}
+
+li{
+    max-width: 20rem;
+}
+
+img{
+    width: 100%;
+    height:auto;
+}
+
+figcaption{
+    background: white;
+    padding: 0.2rem 1rem;
+    font-size: 0.8rem;
+    color: #ccc;
+}
